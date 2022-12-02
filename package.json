@@ -1,0 +1,25 @@
+{
+  "name": "@jeremyfiel/ajv-test-harness",
+  "version": "0.0.1",
+  "description": "A test harness for quickly validating JSON Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyfiel/ajv-test-harness.git"
+  },
+  "keywords": [
+    "ajv",
+    "json",
+    "schema",
+    "validation"
+  ],
+  "author": "Jeremy Fiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyfiel/ajv-test-harness/issues"
+  },
+  "homepage": "https://github.com/jeremyfiel/ajv-test-harness#readme"
+}
